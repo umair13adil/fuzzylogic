@@ -1,5 +1,6 @@
 name: fuzzylogic
 version: 0.3.0
+publish_to: none
 description: A fuzzy logic module.
 homepage: https://github.com/filiph/fuzzylogic
 
